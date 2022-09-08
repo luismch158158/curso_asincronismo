@@ -1,0 +1,17 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Este curso se refiere al curso de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Luis Manrique luismanrique158158@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

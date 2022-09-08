@@ -1,1 +1,2 @@
-#Asincronismo with Platzi
+# Asynchrony with Platzi
+This repository is about asynchrony
